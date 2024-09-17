@@ -1,0 +1,14 @@
+c:\Users\hussein.fares\programmering#1\Interaktiv\Interaktiv\bin\Debug\net8.0\Interaktiv.exe
+c:\Users\hussein.fares\programmering#1\Interaktiv\Interaktiv\bin\Debug\net8.0\Interaktiv.deps.json
+c:\Users\hussein.fares\programmering#1\Interaktiv\Interaktiv\bin\Debug\net8.0\Interaktiv.runtimeconfig.json
+c:\Users\hussein.fares\programmering#1\Interaktiv\Interaktiv\bin\Debug\net8.0\Interaktiv.dll
+c:\Users\hussein.fares\programmering#1\Interaktiv\Interaktiv\bin\Debug\net8.0\Interaktiv.pdb
+c:\Users\hussein.fares\programmering#1\Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hussein.fares\programmering#1\Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.AssemblyInfoInputs.cache
+c:\Users\hussein.fares\programmering#1\Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.AssemblyInfo.cs
+c:\Users\hussein.fares\programmering#1\Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.csproj.CoreCompileInputs.cache
+c:\Users\hussein.fares\programmering#1\Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.dll
+c:\Users\hussein.fares\programmering#1\Interaktiv\Interaktiv\obj\Debug\net8.0\refint\Interaktiv.dll
+c:\Users\hussein.fares\programmering#1\Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.pdb
+c:\Users\hussein.fares\programmering#1\Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.genruntimeconfig.cache
+c:\Users\hussein.fares\programmering#1\Interaktiv\Interaktiv\obj\Debug\net8.0\ref\Interaktiv.dll
